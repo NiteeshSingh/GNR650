@@ -13,7 +13,7 @@ this repo will contain the experiments, assignments of the course GNR650-Advance
 
 ## Paper review
 * added a one page review of the paper “ViViT: A Video Vision Transformer”
-* the pdf is present inside
+* the pdf is present at **Paper Reviews\Review on the paper “ViViT_ A Video Vision Transformer”.pdf**
 
 ## Assingment - 2
 #### task performed
