@@ -10,3 +10,7 @@ this repo will contain the experiments, assignments of the course GNR650-Advance
 * the notebook is -  **'Assingment-1\resnet_overfitting_visualization.ipynb**
 * download and run in colab/kaggle or any other platform
 * no additional things to be done
+
+## Paper review
+* added a one page review of the paper “ViViT: A Video Vision Transformer”
+* the pdf is present inside
