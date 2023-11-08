@@ -26,3 +26,10 @@ this repo will contain the experiments, assignments of the course GNR650-Advance
 * the notebook is -  **'Assingment-2\vit-finetuning-and-visualization.ipynb**
 * download and run in colab/kaggle or any other platform
 * no additional things to be done
+
+## Assingment - 3
+
+* the notebook is  - [notebook link](https://colab.research.google.com/drive/1roF4B4gouABPZq1QlbghuVxdPz4pyKFK?usp=sharing)
+* trained jigsaw ssl on cifar10 datset
+* visualize the model attention using gradCAM
+* trained model checkpoint is present in best.pth path in Assingment-3
